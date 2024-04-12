@@ -2,9 +2,10 @@
 
 > WP Local Docker is an easy to use Docker based local development environment for WordPress development that works on Mac, Windows, and Linux.
 
-[![Support Level](https://img.shields.io/badge/support-active-green.svg)](#support-level) [![Release Version](https://img.shields.io/github/release/10up/wp-local-docker-v2.svg)](https://github.com/10up/wp-local-docker-v2/releases/latest) [![MIT License](https://img.shields.io/github/license/10up/wp-local-docker-v2.svg)](https://github.com/10up/wp-local-docker-v2/blob/master/LICENSE)
+[![Support Level](https://img.shields.io/badge/support-archived-red.svg)](#support-level) [![Release Version](https://img.shields.io/github/release/10up/wp-local-docker-v2.svg)](https://github.com/10up/wp-local-docker-v2/releases/latest) [![MIT License](https://img.shields.io/github/license/10up/wp-local-docker-v2.svg)](https://github.com/10up/wp-local-docker-v2/blob/master/LICENSE)
 
----
+> [!CAUTION]
+> As of 12 April 2024, this project is archived and no longer being actively maintained.
 
 > **Note**<br>
 > Version 4 of WP Local Docker has been released and contains breaking changes.<br>
@@ -920,7 +921,7 @@ This will complete the migration process from WP Local Docker V3 to V4.
 
 ## Support Level
 
-**Active:** 10up is actively working on this, and we expect to continue work for the foreseeable future including keeping tested up to the most recent version of WordPress.  Bug reports, feature requests, questions, and pull requests are welcome.
+**Archived:** This project is no longer maintained by 10up. We are no longer responding to Issues or Pull Requests unless they relate to security concerns. We encourage interested developers to fork this project and make it their own!
 
 #### Like what you see?
 
